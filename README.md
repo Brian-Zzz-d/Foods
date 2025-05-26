@@ -2,103 +2,86 @@
 
 _Welcome to Food, my personal web project inspired by the amazing world of food! This site is currently in development and reflects my vision to create an interactive, visually appealing, and informative experience for food lovers around the globe._
 
-## Comenzando 🚀
+## 🌐 Overview
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_The main structure of the website includes:_
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+_* **Home**: A welcoming landing page featuring a large logo, vibrant images, and food-related news. I’m planning to make this page highly visual and engaging._
 
+_* **Chefs**: A section dedicated to the most famous chefs around the world. This page had some technical issues recently, but I’ll be fixing them and adding rich content about each chef._
 
-### Pre-requisitos 📋
+_* **Famous Dishes**: Here, I’ll showcase iconic dishes from different cultures, each with descriptions and improved visual design._
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_* **Recipes**: A collection of typical recipes from around the world, aimed at helping people who love cooking._
 
-```
-Da un ejemplo
-```
+_* **Restaurants**: A guide to some of the most renowned restaurants worldwide, with descriptions and details._
 
-### Instalación 🔧
+_* The **footer** is currently under development and will include links similar to those in the **header**, animations, and additional pages like Privacy Rights and Terms of Service._
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+## Latest Updates ⚙️ 
 
-_Dí cómo será ese paso_
+- _Improved page loading experience._
 
-```
-Da un ejemplo
-```
+- _Responsive design added using media queries._
 
-_Y repite_
+- _New footer pages: Privacy Rights and Conditions of Sale._
 
-```
-hasta finalizar
-```
+- _Fixed some minor layout issues._
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+- _Working on future integration with Firebase for dynamic content and possible user interaction._
 
-## Ejecutando las pruebas ⚙️
+- _Firebase integrated._
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+## Future Plans 🚀  
 
-### Analice las pruebas end-to-end 🔩
+_+ Add interactive elements to make the site more dynamic._
 
-_Explica que verifican estas pruebas y por qué_
+_+ Create a forum where users can recommend restaurants from around the world._
 
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+_+ Enhance design and performance._
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Tools used to create the project_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [React](https://reactjs.org/) - Main library for building the user interface
+* [Vite](https://vitejs.dev/) - Build tool and fast development environment
+* [React Router](https://reactrouter.com/) - Router for SPA applications
+* [Axios](https://axios-http.com/) - HTTP client for consuming APIs
+* [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
+* [Context API](https://reactjs.org/docs/context.html) - Global state management for the application
+* [ESLint](https://eslint.org/) -  Code analysis and formatting tool
+* [Prettier](https://prettier.io/) - Automatic code formatter
+* [Jest](https://jestjs.io/) - Unit testing framework
+* [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) - Testing for React components
+* [Git](https://git-scm.com/) - Version control
+* [GitHub](https://github.com/) - Platform for hosting the source code repository
 
-## Contribuyendo 🖇️
+## Authors ✒️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+_Mention everyone who helped build the project from the beginning_
 
-## Wiki 📖
+* **Brian Barrera** - *Entire work* - [Brian-Zzz-d](https://github.com/Brian-Zzz-d)
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+## License 📄
 
-## Versionado 📌
+_This project is under the License (GNU GENERAL PUBLIC LICENSE Version 3) – see the [LICENSE.md](LICENSE.md) file for details._
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+## Credits 🙌
 
-## Autores ✒️
+_* **Helper:** ChatGPT_
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_* **Images:** Google Images_
 
-* **Brian Barrera** - *Trabajo entero* - [Brian-Zzz-d](https://github.com/Brian-Zzz-d)
+_* **Logo Creator:** LogoAI_
 
-## Licencia 📄
+_* **Third-Party Components:**_
 
-Este proyecto está bajo la Licencia (GNU GENERAL PUBLIC LICENSE
-                       Version 3) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+_* **CSS Loader:** W3Schools_
 
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
-* etc.
+_* **Responsive Design:** W3Schools_
 
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+Dale un ❤️ por [Brian-Zzz-d](https://github.com/Brian-Zzz-d) 😊
