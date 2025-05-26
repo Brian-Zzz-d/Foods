@@ -1,6 +1,6 @@
-# Título del Proyecto
+# 🍽️ Food Web Project
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Welcome to Food, my personal web project inspired by the amazing world of food! This site is currently in development and reflects my vision to create an interactive, visually appealing, and informative experience for food lovers around the globe._
 
 ## Comenzando 🚀
 
@@ -83,14 +83,12 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Brian Barrera** - *Trabajo entero* - [Brian-Zzz-d](https://github.com/Brian-Zzz-d)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (GNU GENERAL PUBLIC LICENSE
+                       Version 3) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
