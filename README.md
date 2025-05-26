@@ -81,6 +81,10 @@ _* **CSS Loader:** W3Schools_
 
 _* **Responsive Design:** W3Schools_
 
+_* **Footer inspiraion:** https://www.creativosonline.org/25-ejemplos-fantasticos-de-footers-en-diseno-web.html used style pandr_
+
+_* **Readme body helper:** Villanuevand / README-español.md_
+
 
 
 ---
